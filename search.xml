@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我出生了</title>
-    <url>/2023/04/30/%E6%88%91%E5%87%BA%E7%94%9F%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-  </entry>
-  <entry>
     <title>HTML介绍</title>
     <url>/2023/04/30/HTML%E4%BB%8B%E7%BB%8D/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>写点啥比较好呢</p>
 ]]></content>
+      <tags>
+        <tag>HTML</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -30,8 +28,16 @@
 ]]></content>
   </entry>
   <entry>
+    <title>我出生了</title>
+    <url>/2023/04/30/%E6%88%91%E5%87%BA%E7%94%9F%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+  </entry>
+  <entry>
     <title>第一篇文章</title>
     <url>/2023/04/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
   </entry>
 </search>
