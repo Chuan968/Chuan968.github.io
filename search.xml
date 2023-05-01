@@ -11,7 +11,7 @@
 <b>!DOCTYPE html</b> 文档类型声明，作用是告诉浏览器是使用哪种 html 版本来显示网页不是 html 标签，是文档类型的声明标签。<br>
 <b>html lang="zh-CN"</b> 用来定义当前文档显示的语言 en 英文，zh-CN 中文。<br>
 <b>meta charset="UTF-8"</b>Charset 多个字符的集合，便于计算机能够识别和存储各种文字，在 head 标签内可通过 meta 标签的 charset 属性来规定 HTML 文档使用的哪种字符编码。<br>
-<b>link type="text/css" rel="stylesheet" href="css/index.css"</b><br>type 规定被链接文档的 MIME 类型 rel 是 relationship 的英文缩写，意思是“关系”stylesheet 中 style 是“样式”的意思,sheet 是”表格“，加起来是样式表的意思。<br>
+<b>link type="text/css" rel="stylesheet" href="css/index.css"</b>type 规定被链接文档的 MIME 类型 rel 是 relationship 的英文缩写，意思是“关系”stylesheet 中 style 是“样式”的意思,sheet 是”表格“，加起来是样式表的意思。<br>
 <b>MIME - Multipurpose Internet Mail Extensions</b> 翻译过来就是多功能 Internet 邮件扩充服务  服务器会将它们发送的多媒体数据的类型告诉浏览器，而通知手段就是说明该多媒体数据的 MIME 类型， 从而让浏览器知道接收到的信息哪些是 MP3 文件，哪些是 Shockwave 文件等等。 服务器将 MIME 标志符放入传送的数据中来告诉浏览器使用哪种插件读取相关文件。
 
 </font>
