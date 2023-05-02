@@ -6,7 +6,7 @@
   <link href="https://chuan968.github.io/atom.xml" rel="self"/>
   
   <link href="https://chuan968.github.io/"/>
-  <updated>2023-05-01T09:39:28.635Z</updated>
+  <updated>2023-05-02T14:09:36.868Z</updated>
   <id>https://chuan968.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>HTML 常用标签</title>
+    <link href="https://chuan968.github.io/2023/05/02/HTML%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/"/>
+    <id>https://chuan968.github.io/2023/05/02/HTML%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</id>
+    <published>2023-05-02T12:39:57.000Z</published>
+    <updated>2023-05-02T14:09:36.868Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://chuan968.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="HTML" scheme="https://chuan968.github.io/tags/HTML/"/>
+    
+  </entry>
+  
+  <entry>
     <title>HTML 结构与简介</title>
     <link href="https://chuan968.github.io/2023/05/01/HTML%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%80%E4%BB%8B/"/>
     <id>https://chuan968.github.io/2023/05/01/HTML%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%80%E4%BB%8B/</id>
     <published>2023-04-30T16:00:24.000Z</published>
-    <updated>2023-05-01T09:39:28.635Z</updated>
+    <updated>2023-05-02T12:20:17.804Z</updated>
     
     
       
